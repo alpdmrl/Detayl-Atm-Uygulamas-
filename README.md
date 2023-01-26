@@ -1,0 +1,1 @@
+# Detayl-Atm-Uygulamas-
