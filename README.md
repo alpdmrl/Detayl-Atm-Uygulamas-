@@ -1,6 +1,6 @@
 # DetayliAtm-Uygulamasi
 
-Yapılan İşlemler
+Yapılabilen İşlemler
 - Para çekme
 - Para yatırma
 - Para gönderme
