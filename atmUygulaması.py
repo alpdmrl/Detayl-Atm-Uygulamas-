@@ -13,15 +13,15 @@ def atm():
         if hesap == kullaniciAdi and sifre == sifrem:
             while True:
                 print("""İşlemler:
-0 - Çıkış
-1 - Para çekme
-2 - Para yatırma
-3 - Para gönderme
-4 - Bakiye sorgulama
-5 - Borç yatırma
-6 - Şifre değiştirme
-7 - Kredi çekme
-""")
+                                  0 - Çıkış
+                                  1 - Para çekme
+                                  2 - Para yatırma
+                                  3 - Para gönderme
+                                  4 - Bakiye sorgulama
+                                  5 - Borç yatırma
+                                  6 - Şifre değiştirme
+                                  7 - Kredi çekme
+                      """)
                 islem = int(input("Yapmak istediğiniz işlemi giriniz = "))
                 if islem == 1:
                     while True:
